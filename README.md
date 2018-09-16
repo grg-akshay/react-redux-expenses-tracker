@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2486,3 +2487,6 @@ In the future, we might start automatically compiling incompatible third-party m
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
 #   r e a c t - r e d u x - e x p e n s e - t r a c k e r  
  
+=======
+# react-redux-expense-tracker
+>>>>>>> 93c465b779cfdc09dd29cd21247221c947a19a13
