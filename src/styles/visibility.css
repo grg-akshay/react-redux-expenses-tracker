@@ -1,0 +1,13 @@
+
+
+@media (min-width : 45rem){
+    .show-for-mobile{
+        display: none;
+    }
+}
+
+@media (max-width : 44.99rem){
+    .show-for-desktop{
+        display: none;
+    }
+}

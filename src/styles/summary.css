@@ -1,0 +1,19 @@
+
+
+.page-header{
+    background-color: #f7f7f7;
+    padding: 3.2rem 0;
+    margin-bottom: 3.2rem;
+}
+.page-header__title{
+    font-weight: 300;
+    margin:0;
+}
+
+.page-header__actions{
+    margin-top: 4px;
+}
+
+span{
+    font-weight: bold;
+}

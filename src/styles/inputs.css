@@ -1,0 +1,18 @@
+.text-input, .textarea{
+    border: 1px solid #cacccd;
+    height: 50px;  
+    padding: 1.2rem;
+    font-size: 1.8rem;
+    font-weight: 300;
+}
+
+.select{
+    border: 1px solid #cacccd;
+    height: 50px;  
+    background-color: #f7f7f7;
+    /* padding: 1.2rem; */
+}
+
+.textarea{
+    height: 10rem;
+}
