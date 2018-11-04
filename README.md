@@ -22,4 +22,6 @@ npm run start
 - HTML5 
 - CSS3
 
-
+### NOTE:
+Please make sure 3rd party cookies are enabled on your browser, if not then you may follow below link:
+https://support.cloudhq.net/how-to-enable-3rd-party-cookies-in-google-chrome-browser/
