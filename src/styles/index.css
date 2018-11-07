@@ -31,8 +31,9 @@ body {
   justify-content: center;
 }
 .box-layout__box {
-  background-color: white;
-  opacity: 0.85;
+  background-color: black;
+  opacity: 0.80;
+  color: white;
   padding:0 10px 10px 10px;
   border-radius: 4px;
   text-align: center;
@@ -42,6 +43,7 @@ body {
   background-color: #0471A6;
   border : none;
   padding : 1.6rem;
+  cursor: pointer;
   border-radius: 0.1em;
   font-size: 0.95em;
   display: inline-block;
@@ -83,9 +85,7 @@ body {
 
 @media screen and (min-width: 400px) {
   .chart-container {
-      /* position: relative; */
       height:60%;
       width:90%;
     }
 }
-
